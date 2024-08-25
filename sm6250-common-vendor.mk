@@ -357,7 +357,7 @@ PRODUCT_PACKAGES += \
     libllvm-glnext \
     libllvm-qcom \
     libmdmdetect \
-    libmmosal \
+    libmmosal_vendor \
     libpdmapper \
     libpdnotifier \
     libqcci_legacy \
@@ -377,7 +377,7 @@ PRODUCT_PACKAGES += \
     libstagefright_soft_qtiflacdec \
     libwfddisplayconfig_proprietary \
     libwfdhdcpcp \
-    vendor.qti.hardware.wifidisplaysession@1.0 \
+    vendor.qti.hardware.wifidisplaysession@1.0_vendor \
     btaudio_offload_if \
     audio.bluetooth_qti.default \
     vendor.qti.hardware.bluetooth_audio@2.0-impl \
